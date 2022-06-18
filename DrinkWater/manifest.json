@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
   "id": "DrinkWater",
   "name": "DrinkWater",
-  "author": "Sirspam",
+  "author": "Sp00kqd",
   "version": "1.0.1",
   "description": "Beat Saber mod to remind you of the importance of hydration",
   "gameVersion": "1.21.0",
@@ -13,6 +13,6 @@
       "SiraUtil": "^3.0.5"
     },
   "links": {
-    "project-source": "https://github.com/Sirspam/DrinkWater"
+    "project-source": "https://github.com/Sp00kaYTnT/DrinkWater"
   }
 }
