@@ -1,3 +1,5 @@
+I couldn't stand having the grammar incorrect..
+
 # DrinkWater <img src="DrinkWater\Resources\AquaDrink.png" align="right" width="150">
 Beat Saber mod to remind you of the importance of hydration
 ## Usage
