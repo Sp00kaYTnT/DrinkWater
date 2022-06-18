@@ -100,13 +100,13 @@ namespace DrinkWater.UI.ViewControllers
             if (_pluginConfig.ImageSource == ImageSources.Sources.Nya && Random.Range(0, 4) == 3)
             {
                 HeaderContent.text = "Dwynk sum watew! 💦";
-                TextContent.text = (_panelMode == PanelMode.Restart ? "Beyfow weestawting this song" : "Beyfow bwowsying sum noow songes") + ", dwynk sum watew! t-t-that ish iympowtant fow yow bodee!! (>ω< )";
+                TextContent.text = (_panelMode == PanelMode.Restart ? "Beyfow weestawting this song" : "Beyfow bwowsying sum noow songes") + ", dwynk sum watew! i-it ish iympowtant fow yow bodee!! (>ω< )";
                 ContinueButtonText.text = "I undewstwand!! x3";
             }
             else
             {
                 HeaderContent.text = "Drink some water! 💦";
-                TextContent.text = (_panelMode == PanelMode.Restart ? "Before restarting this song" : "Before browsing some new songs") + ", drink some water, that's important for your body!";
+                TextContent.text = (_panelMode == PanelMode.Restart ? "Before restarting this song" : "Before browsing some new songs") + ", drink some water. It's important for your body!";
                 ContinueButtonText.text = "I understand!";
             }
             
